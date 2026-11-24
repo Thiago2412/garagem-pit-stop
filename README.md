@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.webp" alt="Logo da Garagem Pit Stop – Oficina Automotiva" width="420">
+  <img src="logo.webp" alt="Logo da Garagem Pit Stop – Oficina Automotiva" width="420">
 </p>
 
 <h1 align="center">Sistema de Controle de Estoque</h1>
@@ -47,44 +47,44 @@ Tudo roda direto no navegador, em uma única página, **sem servidor e sem bibli
 ### Dashboard
 Visão geral do estoque, com indicadores, gráfico de movimentação e alertas de estoque baixo.
 
-![Dashboard](assets/screenshots/dashboard.webp)
+![Dashboard](dashboard.webp)
 
 ### Login
 Acesso com usuário e senha e aviso quando algo está errado.
 
-![Login](assets/screenshots/login.webp)
+![Login](login.webp)
 
 ### Estoque
 Cadastro com preenchimento automático e busca por nome, código ou categoria.
 
-![Estoque](assets/screenshots/estoque.webp)
+![Estoque](estoque.webp)
 
 ### Entradas e saídas
 Os dois registros na mesma tela, com histórico único.
 
-![Entradas e saídas](assets/screenshots/entradas-saidas.webp)
+![Entradas e saídas](entradas-saidas.webp)
 
 ### Relatórios
 O que comprar hoje, peças paradas e lucro por peça.
 
-![Relatórios](assets/screenshots/relatorios.webp)
+![Relatórios](relatorios.webp)
 
 ### Categorias
 Prefixo de código, quantidade de produtos e valor em estoque de cada categoria.
 
-![Categorias](assets/screenshots/categorias.webp)
+![Categorias](categorias.webp)
 
 ### Administradores
 Contas numeradas, quem cadastrou cada uma e, para o super admin, os botões de promover e excluir com confirmação.
 
-![Administradores](assets/screenshots/administradores.webp)
+![Administradores](administradores.webp)
 
 ### Versão para celular
 O layout se adapta à tela: o menu vira um botão ☰, os cartões ficam em uma coluna e aparecem as **Ações rápidas**, que só existem no celular.
 
 <p>
-  <img src="assets/screenshots/mobile-inicio.webp" alt="Tela inicial no celular" width="260">
-  <img src="assets/screenshots/mobile-indicadores.webp" alt="Indicadores no celular" width="260">
+  <img src="mobile-inicio.webp" alt="Tela inicial no celular" width="260">
+  <img src="mobile-indicadores.webp" alt="Indicadores no celular" width="260">
 </p>
 
 ## Funcionalidades
